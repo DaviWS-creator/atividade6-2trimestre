@@ -4,13 +4,13 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("ola davi seu lindo\n")
-		//paises()
-		//SomaMedia()
-	//	Maior()
-	//	potencia()
-	//	pares_impares()
-	//	Fibonacci()
+		escreva("ola, mundo\n")
+		paises()
+		SomaMedia()
+		Maior()
+		potencia()
+		pares_impares()
+		Fibonacci()
 		fatorial()
 		
 	}
